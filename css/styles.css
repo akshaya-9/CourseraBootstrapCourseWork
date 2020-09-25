@@ -55,3 +55,15 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+.bg{
+  background-color: #512DA8;
+  color: white;
+  margin-left: -1px;
+}
+}
+.bg1{
+    background-color: #D1C4E9;
+}
+.c{
+    color: white;
+}

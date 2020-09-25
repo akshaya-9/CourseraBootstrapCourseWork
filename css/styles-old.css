@@ -21,7 +21,9 @@
     background: #9575CD ;
     color:floralwhite;
 }
-
+.c{
+    color: white;
+}
 address{
     font-size:80%;
     margin:0px;
@@ -60,4 +62,7 @@ body{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+.bg1{
+    background-color: #D1C4E9;
 }
